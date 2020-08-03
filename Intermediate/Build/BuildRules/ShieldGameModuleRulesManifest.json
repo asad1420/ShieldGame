@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/muhammadasad/Documents/Unreal Projects/ShieldGame/Source/ShieldGame/ShieldGame.Build.cs",
+		"/Users/muhammadasad/Documents/Unreal Projects/ShieldGame/Source/ShieldGame.Target.cs",
+		"/Users/muhammadasad/Documents/Unreal Projects/ShieldGame/Source/ShieldGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShieldGame",
+			"Path": "/Users/muhammadasad/Documents/Unreal Projects/ShieldGame/Source/ShieldGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShieldGameEditor",
+			"Path": "/Users/muhammadasad/Documents/Unreal Projects/ShieldGame/Source/ShieldGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

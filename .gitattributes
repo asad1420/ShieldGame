@@ -1,0 +1,9 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+*.app filter=lfs diff=lfs merge=lfs -text
+*.dSYM filter=lfs diff=lfs merge=lfs -text
+*.gch filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+*ShieldGame filter=lfs diff=lfs merge=lfs -text
+*.ShieldGame filter=lfs diff=lfs merge=lfs -text
